@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fornax 生图批测优化"
+  short_description: "从数据准备、60图批测到质量分析与 Prompt 迭代的完整闭环"
+  default_prompt: "使用 $fornax-visual-batch-optimizer 为这个生图 Prompt 设计并执行 60 图批测、输出报告并提出下一版优化。"
